@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T11:53:03Z" name="Suite" finished-at="2022-07-21T11:53:39Z" duration-ms="36521">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T11:53:03Z" name="Test" finished-at="2022-07-21T11:53:39Z" duration-ms="36521">
+      <class name="com.test.actitime.LoginLogout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.actitime.LoginLogout@1a4927d6]" started-at="2022-07-21T11:53:03Z" name="setup" finished-at="2022-07-21T11:53:33Z" duration-ms="30921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="logintoapp()[pri:0, instance:com.test.actitime.LoginLogout@1a4927d6]" started-at="2022-07-21T11:53:33Z" name="logintoapp" finished-at="2022-07-21T11:53:38Z" duration-ms="4977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoapp -->
+        <test-method signature="login()[pri:0, instance:com.test.actitime.LoginLogout@1a4927d6]" started-at="2022-07-21T11:53:38Z" name="login" finished-at="2022-07-21T11:53:38Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.test.actitime.LoginLogout@1a4927d6]" started-at="2022-07-21T11:53:38Z" name="teardown" finished-at="2022-07-21T11:53:39Z" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.actitime.LoginLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
